@@ -7,4 +7,7 @@
 Scraping PCI Concursos site. It extracts the national Public Tenders with 
 description and dates and exports to an Excel .xlsx file.
 
+Scraping do site PCI Concursos. O script extrai os Concursos Públicos de nível
+nacional com descrição e datas e exporta as info num arquivo .xlsx.
+
 
